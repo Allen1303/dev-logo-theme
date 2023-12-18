@@ -1,0 +1,37 @@
+{
+  "name": "dev-logo-theme",
+  "displayName": "Dev Logo Theme",
+  "description": "Theme inspired By HTML, CSS, JavaScript, BootStrap, and React logo colours",
+  "version": "0.0.1",
+  "publisher": "Allen1303",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Allen1303/Allen-Dark-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark Theme",
+    "html Theme",
+    "css Theme",
+    "javascript Theme",
+    "bootstrap Theme",
+    "react Theme"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+"icon": "theme-icon.png",
+  "license": "6nz5x3zdodjea36ggfaufxa4xfjuuegrglkguw7goqg7gdfgskja",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dev Logo Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dev Logo Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
