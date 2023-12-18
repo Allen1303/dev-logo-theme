@@ -5,13 +5,16 @@ This theme is inspired by the colors of the HTML, CSS, JavaScript, Bootstrap, an
 `Imagine how cool your projects would look with this theme applied!`
 
 ## HTML View
-![Alt Text](images/html-image.png)
+
+<img width="690" alt="HTML-img" src="https://github.com/Allen1303/dev-logo-theme/assets/132642677/9b6cfaa3-f2a5-4038-b534-cfe5d9c5e068">
 
 ## JavaScript view
-![Alt Text](images/JS-image.png)
+<img width="690" alt="JS-img-png" src="https://github.com/Allen1303/dev-logo-theme/assets/132642677/e3e9b090-bc70-4e61-8a54-fe5eb8c0b182">
+
 
 ## CSS View
-![Alt Text](images/css-image.png)
+<img width="535" alt="CSS-image" src="https://github.com/Allen1303/dev-logo-theme/assets/132642677/7ff30390-3ded-4d92-89f2-98ae006de4da">
+
 
 
 
