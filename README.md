@@ -20,7 +20,7 @@ This theme is inspired by the colors of the HTML, CSS, JavaScript, Bootstrap, an
 
 ## Aditional Info
 
-1. Clone the repository: `git clone https://github.com/your-username/dev-logo-theme.git`
+1. Clone the repository: `git clone https://github.com/Allen1303/dev-logo-theme.git`
 2. Navigate to the project directory: `cd dev-logo-theme`
 3. Install the dependencies: `npm install`
 
